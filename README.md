@@ -1,5 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/93cff4yt6dq9t80x?svg=true)](https://ci.appveyor.com/project/ahtimir/hw-4-matchers)
-
-
-# hw-4-matchers
-Домашнее задание к лекции «Unit-тестирование» - matchers
+[![Build status](https://ci.appveyor.com/api/projects/status/26g3twqso976lu08?svg=true)](https://ci.appveyor.com/project/Andrey09123/ajs-matchers)
